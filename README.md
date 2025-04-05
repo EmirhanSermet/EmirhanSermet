@@ -48,7 +48,7 @@
 
 - 🌐 Portföyüm: [emirhansermet.github.io](https://emirhansermet.github.io)
 - 💼 LinkedIn: [linkedin.com/in/emirhansermet](https://www.linkedin.com/in/emirhansermet/)
-- 📧 Mail: emirhansermet@gmail.com *(Varsa mail adresini buraya sen ekleyebilirsin)*
+- 📧 Mail: emohanasd@gmail.com 
 
 ---
 
