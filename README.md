@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/EmirhanSermet/EmirhanSermet/main/banner.png" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/EmirhanSermet/EmirhanSermet/main/bannerım.png" alt="Banner" />
 </p>
 
 <h1 align="center">Merhaba! 👋 Ben Emirhan Şermet</h1>
